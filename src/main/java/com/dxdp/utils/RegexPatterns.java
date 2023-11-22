@@ -1,7 +1,7 @@
 package com.dxdp.utils;
 
 /**
- * @author 虎哥
+ * @author xuyang
  */
 public abstract class RegexPatterns {
     /**

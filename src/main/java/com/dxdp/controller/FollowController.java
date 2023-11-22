@@ -12,7 +12,7 @@ import javax.annotation.Resource;
  * 前端控制器
  * </p>
  *
- * @author 虎哥
+ * @author xuyang
  */
 @RestController
 @RequestMapping("/follow")

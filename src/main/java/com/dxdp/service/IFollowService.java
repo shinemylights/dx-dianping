@@ -9,7 +9,7 @@ import com.dxdp.entity.Follow;
  *  服务类
  * </p>
  *
- * @author 虎哥
+ * @author xuyang
  * @since 2021-12-22
  */
 public interface IFollowService extends IService<Follow> {
